@@ -51,3 +51,10 @@ Live_dashboard - https://app.powerbi.com/view?r=eyJrIjoiYTVjYmY3MDUtZmUzMy00OGFl
 linkedin_profile - https://www.linkedin.com/in/utkarsh-mishra-7a14a514b/
 
 
+
+## ZOMATO ##
+![Zomato_pic_2](https://github.com/Utkarsh1m/Zomato_power_bi_project/assets/159425641/8bfb03d1-378e-4ea7-a269-b172e3520634)
+
+![Zomato_pic_3](https://github.com/Utkarsh1m/Zomato_power_bi_project/assets/159425641/0923997d-0801-4968-be64-e3029ba6ffee)
+
+![Zomato_pic_4](https://github.com/Utkarsh1m/Zomato_power_bi_project/assets/159425641/3a1d1723-3ac1-4f8e-b917-e5fab225f951)
